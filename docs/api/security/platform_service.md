@@ -8,5 +8,4 @@ The System Reset API enables you to request system reset from a Non-Secure Proce
 
 [![View code](https://www.mbed.com/embed/?type=library)](../mbed-os-api-doxy/lifecycle_8h.html)
 
-
 ### Example
