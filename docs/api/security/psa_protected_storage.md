@@ -1,8 +1,6 @@
 ## PSA protected storage
 
-### Description
-
-PSA protected storage APIs enable saving and retrieving data from PSA protected storage.
+PSA protected storage APIs enable saving data to and retrieving data from PSA protected storage.
 
 Unlike [PSA internal storage](../apis/psa_internal_storage.html), PSA protected storage always runs on the NSPE side and redirects calls to the KVStore instance.
 
